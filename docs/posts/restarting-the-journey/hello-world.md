@@ -9,3 +9,6 @@ categories:
 ---
 
 **Hello world!!!**
+
+Status:
+![Alt text](photos/COL_20261208.jpg)
