@@ -1,5 +1,7 @@
 ---
 icon: lucide/rocket
+authors:
+  - luis
 ---
 
 # Get started
