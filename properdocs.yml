@@ -1,0 +1,31 @@
+site_name: Luis Logs - Stock Trading Diary
+site_url: https://trade.luislogs.com
+theme:
+  name: materialx
+  palette:
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+      primary: green
+      accent: deep orange
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+      primary: green
+      accent: deep purple
+plugins:
+  - blog:
+      blog_dir: .
+
+
+markdown_extensions:
+  - attr_list
+
+  ## Callouts
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
