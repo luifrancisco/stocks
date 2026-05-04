@@ -1,4 +1,4 @@
-# Welcome to ProperDocs
+<!-- # Welcome to ProperDocs
 
 For full documentation visit [properdocs.org](https://properdocs.org).
 
@@ -14,4 +14,4 @@ For full documentation visit [properdocs.org](https://properdocs.org).
     properdocs.yml # The configuration file.
     docs/
         index.md   # The documentation homepage.
-        ...        # Other markdown pages, images and other files.
+        ...        # Other markdown pages, images and other files. -->
