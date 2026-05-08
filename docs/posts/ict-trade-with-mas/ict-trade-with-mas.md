@@ -1,0 +1,22 @@
+---
+draft: false
+date: 2026-05-07
+authors:
+  - luis
+categories:
+  - Sentiments
+  - Wins
+---
+Fast forward from December of 2025 to today - I managed to increase the portfolio by 25%.
+
+Went all in with ICT considering the strong uptrend but didn't really have an entry price in mind.
+
+The plan was to capitalize on the swings but my full-time job didn't allow me to check trends and execute trades in the middle of the day.
+
+Fortunately, I'm on holiday today so I was able to monitor at EOD where I found a bearish candle for a sell signal.
+
+![ICT trade plan](photos/ICT_trade_20260507.png)
+
+How do you calculate the RRR when the stock is ATH levels?
+
+Stock is still going strong. When do you re-enter?
