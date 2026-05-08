@@ -8,9 +8,10 @@ categories:
   - Sentiments
   - Wins
 ---
-Fast forward from December of 2025 to today - I managed to increase the portfolio by 25%.
+Fast forward from December of 2025 to today - I managed to increase the portfolio by about 25%.
 
 ![ICT trade plan](photos/ICT_trade_col_20260507.jpg)
+*Snap of the port just before the sell execution. Actual exit value was at 785.*
 
 Went all in with ICT considering the strong uptrend but didn't really have an entry price in mind.
 
