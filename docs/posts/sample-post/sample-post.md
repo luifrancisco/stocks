@@ -1,11 +1,11 @@
 ---
 title: ICT trade with MAs
-draft: false
+draft: true
 date: 2026-05-07
 authors:
   - luis
 categories:
-  - PH
+  - Sentiments
   - Wins
 ---
 Fast forward from December of 2025 to today - I managed to increase the portfolio by about 25%.
