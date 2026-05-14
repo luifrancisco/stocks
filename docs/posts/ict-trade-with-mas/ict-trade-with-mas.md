@@ -7,6 +7,17 @@ authors:
 categories:
   - PH
   - Wins
+metadata:
+  stock_consolidation:
+    market: PH
+    symbol: "ICT"
+    entry_date: "2025-02-09"
+    entry_price: 785
+    entry_shares: 320
+    exit_date: "2026-05-07"
+    exit_price: 2399
+    exit_shares: 320
+    notes: "MAs"
 ---
 Fast forward from December of 2025 to today - I managed to increase the portfolio by about 25%.
 

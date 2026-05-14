@@ -7,6 +7,17 @@ authors:
 categories:
   - Sentiments
   - Wins
+metadata:
+  stock_consolidation:
+    market: JP
+    symbol: "8316"
+    entry_date: "2025-05-14"
+    entry_price: 2148
+    entry_shares: 100
+    exit_date: "2026-01-14"
+    exit_price: 2399
+    exit_shares: 100
+    notes: "Swing"
 ---
 Fast forward from December of 2025 to today - I managed to increase the portfolio by about 25%.
 
