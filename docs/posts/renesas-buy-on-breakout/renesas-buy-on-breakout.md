@@ -1,5 +1,5 @@
 ---
-title: Renesas: Buy on breakout
+title: "Renesas: Buy on breakout"
 draft: true
 date: 2026-05-13
 authors:

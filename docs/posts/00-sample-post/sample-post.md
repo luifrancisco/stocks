@@ -1,5 +1,5 @@
 ---
-title: ICT trade with MAs
+title: "ICT trade with MAs"
 draft: true
 date: 2026-05-07
 authors:
