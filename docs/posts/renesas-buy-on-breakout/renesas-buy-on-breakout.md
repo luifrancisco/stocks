@@ -5,12 +5,11 @@ date: 2026-05-13
 authors:
   - luis
 categories:
-  - Wins
   - JP
+  - Wins
   - In retrospect
 ---
 ![ICT trade plan](photos/renesas_202512.jpg)
-*Snap of the port just before the sell execution. Actual exit value was at 785.*
 
 This needs to go the vault because this is the trade that, in fact, gave me the confidence to get back into trading. Honestly, I've never thought I would be trading in the Japan market for the main reason I couldn't understand Nihonggo. Well, I still can't understand very well until now, but here I am, playing in the market in humble beginnings.
 
