@@ -10,6 +10,7 @@ categories:
 metadata:
   stock_consolidation:
     market: PH
+    tranches: false
     symbol: "ICT"
     entry_date: "2025-02-09"
     entry_price: 785

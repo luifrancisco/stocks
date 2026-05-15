@@ -11,6 +11,7 @@ categories:
 metadata:
   stock_consolidation:
     market: JP
+    tranches: false
     symbol: "8316"
     entry_date: "2025-05-14"
     entry_price: 2148
