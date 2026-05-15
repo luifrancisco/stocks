@@ -1,5 +1,7 @@
 # Trading History
 
+This page serves as a technical summary of all posts published so far in this blog.
+
 *Generated: 2026-05-15*
 
 ## Summary
