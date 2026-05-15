@@ -23,7 +23,7 @@ plugins:
 nav:
   - Home: index.md
   - References: references.md
-
+  - Trade History: trade-history.md
 
 markdown_extensions:
   - attr_list
