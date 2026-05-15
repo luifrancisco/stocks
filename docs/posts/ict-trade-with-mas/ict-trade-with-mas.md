@@ -36,3 +36,4 @@ Fortunately, I'm on holiday today so I was able to monitor at EOD where I found 
 How do you calculate the RRR when the stock is ATH levels?
 
 Stock is still going strong. When do you re-enter?
+
