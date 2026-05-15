@@ -25,6 +25,9 @@ nav:
   - References: references.md
   - Trade History: trade-history.md
 
+extra_css:
+  - css/compact-table.css
+
 markdown_extensions:
   - attr_list
 
