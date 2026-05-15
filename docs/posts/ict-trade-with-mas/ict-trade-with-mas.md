@@ -13,10 +13,10 @@ metadata:
     tranches: false
     symbol: "ICT"
     entry_date: "2025-02-09"
-    entry_price: 785
+    entry_price: 659.5
     entry_shares: 320
     exit_date: "2026-05-07"
-    exit_price: 2399
+    exit_price: 785
     exit_shares: 320
     notes: "MAs"
 ---
