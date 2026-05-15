@@ -1,9 +1,11 @@
 /* Compact table styling for trade-history — smaller font and tighter padding */
-.trade-history-table .md-table {
+.trade-history-table table {
   font-size: 0.85rem;
 }
 
-.trade-history-table .md-table th,
-.trade-history-table .md-table td {
+.trade-history-table th,
+.trade-history-table td {
   padding: 0.35rem 0.5rem;
+  white-space: nowrap;
 }
+
