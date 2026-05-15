@@ -30,7 +30,6 @@ This page serves as a technical summary of all posts published so far in this bl
   <th>Entry Price</th>
   <th>Exit Date</th>
   <th>Exit Price</th>
-  <th>Return %</th>
   <th>P/L %</th>
 </tr>
 </thead>
@@ -43,7 +42,6 @@ This page serves as a technical summary of all posts published so far in this bl
   <td>659.50</td>
   <td>2026-05-07</td>
   <td>785.00</td>
-  <td>+19.03%</td>
   <td><span style="color: #59A14F;">+19.03%</span></td>
 </tr>
 <tr>
@@ -54,7 +52,6 @@ This page serves as a technical summary of all posts published so far in this bl
   <td>2148.00</td>
   <td>2026-01-14</td>
   <td>2399.00</td>
-  <td>+11.69%</td>
   <td><span style="color: #59A14F;">+11.69%</span></td>
 </tr>
 </tbody>
