@@ -18,8 +18,46 @@ This page serves as a technical summary of all posts published so far in this bl
 
 ## Closed Trades
 
-| No. | Market | Ticker | Entry Date | Entry Price | Exit Date | Exit Price | Return % | P/L % |
-|-----|--------|--------|------------|-------------|-----------|------------|----------|-------|
-{: .trade-history-table}
-| [1](https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/) | PH | ICT | 2025-02-09 | 659.50 | 2026-05-07 | 785.00 | +19.03% | <span style="color: #59A14F;">+19.03%</span> |
-| [2](https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/) | JP | 8316 | 2025-05-14 | 2148.00 | 2026-01-14 | 2399.00 | +11.69% | <span style="color: #59A14F;">+11.69%</span> |
+<div class="trade-history-table">
+
+<table>
+<thead>
+<tr>
+  <th>No.</th>
+  <th>Market</th>
+  <th>Ticker</th>
+  <th>Entry Date</th>
+  <th>Entry Price</th>
+  <th>Exit Date</th>
+  <th>Exit Price</th>
+  <th>Return %</th>
+  <th>P/L %</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">1</a></td>
+  <td>PH</td>
+  <td>ICT</td>
+  <td>2025-02-09</td>
+  <td>659.50</td>
+  <td>2026-05-07</td>
+  <td>785.00</td>
+  <td>+19.03%</td>
+  <td><span style="color: #59A14F;">+19.03%</span></td>
+</tr>
+<tr>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">2</a></td>
+  <td>JP</td>
+  <td>8316</td>
+  <td>2025-05-14</td>
+  <td>2148.00</td>
+  <td>2026-01-14</td>
+  <td>2399.00</td>
+  <td>+11.69%</td>
+  <td><span style="color: #59A14F;">+11.69%</span></td>
+</tr>
+</tbody>
+</table>
+
+</div>
