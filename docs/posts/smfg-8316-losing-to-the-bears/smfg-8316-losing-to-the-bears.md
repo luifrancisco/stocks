@@ -20,7 +20,7 @@ metadata:
     exit_shares: 100
     notes: "Swing"
 ---
-![ICT trade plan](photos/smgf_trade.jpg)
+![ICT trade plan](photos/smfg_trade.jpg)
 
 My entry here was on spot. The idea was for the price to bounce back from EMA9.
 
