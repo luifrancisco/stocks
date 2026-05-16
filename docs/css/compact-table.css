@@ -2,12 +2,12 @@
 .trade-history-table table {
   font-size: 0.8rem;
   border-collapse: collapse;
-  width: auto;
+  width: auto !important;
 }
 
 .trade-history-table th,
 .trade-history-table td {
-  padding: 0.3rem 0.4rem;
+  padding: 0.3rem 0.4rem !important;
   white-space: nowrap;
 }
 
@@ -29,3 +29,4 @@
     display: none;
   }
 }
+
