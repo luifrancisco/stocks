@@ -1,0 +1,32 @@
+/* Compact table styling for trade-history */
+.trade-history-table table {
+  font-size: 0.8rem;
+  border-collapse: collapse;
+  width: auto !important;
+}
+
+.trade-history-table th,
+.trade-history-table td {
+  padding: 0.3rem 0.4rem !important;
+  white-space: nowrap;
+}
+
+/* Hide less important columns on smaller screens */
+@media (max-width: 900px) {
+  .trade-history-table th:nth-child(5),
+  .trade-history-table td:nth-child(5),
+  .trade-history-table th:nth-child(7),
+  .trade-history-table td:nth-child(7) {
+    display: none;
+  }
+}
+
+@media (max-width: 700px) {
+  .trade-history-table th:nth-child(4),
+  .trade-history-table td:nth-child(4),
+  .trade-history-table th:nth-child(6),
+  .trade-history-table td:nth-child(6) {
+    display: none;
+  }
+}
+

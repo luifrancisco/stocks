@@ -7,13 +7,13 @@ This page serves as a technical summary of all posts published so far in this bl
 ## Summary
 
 - **Total closed trades:** 3
-- **Overall win rate:** 100.0%
-- **Average return:** 12.41%
+- **Overall win rate:** 66.7%
+- **Average return:** 8.19%
 
 ### By Market
 
 - **PH:** 1 trade(s), 100.0% win rate, 19.03% avg return
-- **JP:** 2 trade(s), 100.0% win rate, 9.10% avg return
+- **JP:** 2 trade(s), 50.0% win rate, 2.77% avg return
 - **US:** 0 trades
 
 ## Closed Trades
@@ -49,10 +49,10 @@ This page serves as a technical summary of all posts published so far in this bl
   <td>JP</td>
   <td>8316</td>
   <td>2026-01-23</td>
-  <td>5199.00</td>
+  <td>5539.00</td>
   <td>2026-03-04</td>
-  <td>5538.00</td>
-  <td><span style="color: #59A14F;">+6.52%</span></td>
+  <td>5199.00</td>
+  <td><span style="color: #E15759;">-6.14%</span></td>
 </tr>
 <tr>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">3</a></td>
