@@ -13,10 +13,10 @@ metadata:
     tranches: false
     symbol: "8316"
     entry_date: "2026-01-23"
-    entry_price: 5199
+    entry_price: 5539
     entry_shares: 100
     exit_date: "2026-03-04"
-    exit_price: 5538
+    exit_price: 5199
     exit_shares: 100
     notes: "Swing"
 ---
