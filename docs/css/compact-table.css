@@ -2,7 +2,7 @@
 .trade-history-table table {
   font-size: 0.8rem;
   border-collapse: collapse;
-  width: 100%;
+  width: auto;
 }
 
 .trade-history-table th,
@@ -29,4 +29,3 @@
     display: none;
   }
 }
-
