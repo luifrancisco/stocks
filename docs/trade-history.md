@@ -9,7 +9,7 @@ This page serves as a technical summary of all posts published so far in this bl
 - **Total closed trades:** 3
 - **Overall win rate:** 66.7%
 - **Average return:** 8.19%
-- **Average days held:** 245.7 days
+- **Average days held:** -67.3 days
 
 ### By Market
 
@@ -19,10 +19,10 @@ This page serves as a technical summary of all posts published so far in this bl
 
 ## Closed Trades
 
+<input type="checkbox" id="toggle-columns" class="toggle-columns">
+<label for="toggle-columns" class="toggle-label">Show all columns</label>
 <div class="trade-history-table">
 
-<details>
-<summary style="cursor: pointer; font-weight: 500; margin-bottom: 0.5rem;">Show all columns</summary>
 <table>
 <thead>
 <tr>
@@ -42,10 +42,10 @@ This page serves as a technical summary of all posts published so far in this bl
   <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">1</a></td>
   <td>PH</td>
   <td>ICT</td>
-  <td>2025-02-09</td>
+  <td>2026-02-09</td>
   <td>659.50</td>
   <td>2026-05-07</td>
-  <td>452</td>
+  <td>87</td>
   <td>785.00</td>
   <td><span style="color: #59A14F;">+19.03%</span></td>
 </tr>
@@ -64,15 +64,14 @@ This page serves as a technical summary of all posts published so far in this bl
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">3</a></td>
   <td>JP</td>
   <td>8316</td>
-  <td>2025-05-14</td>
+  <td>2026-12-09</td>
   <td>2148.00</td>
   <td>2026-01-14</td>
-  <td>245</td>
+  <td>-329</td>
   <td>2399.00</td>
   <td><span style="color: #59A14F;">+11.69%</span></td>
 </tr>
 </tbody>
 </table>
-</details>
 
 </div>
