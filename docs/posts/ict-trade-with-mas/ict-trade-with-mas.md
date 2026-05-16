@@ -12,7 +12,7 @@ metadata:
     market: PH
     tranches: false
     symbol: "ICT"
-    entry_date: "2025-02-09"
+    entry_date: "2026-02-09"
     entry_price: 659.5
     entry_shares: 320
     exit_date: "2026-05-07"
