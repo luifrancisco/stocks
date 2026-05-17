@@ -49,15 +49,15 @@ This page serves as a technical summary of all posts published so far in this bl
   <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/"><span style="color: #59A14F;">+19.03%</span></a></td>
 </tr>
 <tr>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">2</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">JP</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">8316</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">2026-01-23</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">5539.00</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">2026-03-04</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">40</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">5199.00</a></td>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/"><span style="color: #E15759;">-6.14%</span></a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/">2</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/">JP</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/">8316</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/">2026-01-23</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/">5539.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/">2026-03-04</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/">40</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/">5199.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/"><span style="color: #E15759;">-6.14%</span></a></td>
 </tr>
 <tr>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">3</a></td>
