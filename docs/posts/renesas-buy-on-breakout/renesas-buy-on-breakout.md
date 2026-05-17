@@ -13,7 +13,7 @@ metadata:
     market: JP
     tranches: false
     symbol: "8316"
-    entry_date: "2026-12-09"
+    entry_date: "2025-12-09"
     entry_price: 2148
     entry_shares: 300
     exit_date: "2026-01-14"
