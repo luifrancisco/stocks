@@ -11,12 +11,7 @@
   white-space: nowrap;
 }
 
-/* Checkbox hack: hide extra columns by default */
-.toggle-columns {
-  display: none;
-}
-
-.toggle-label {
+.trade-history-table .toggle-cols {
   display: inline-block;
   cursor: pointer;
   font-weight: 500;
@@ -25,19 +20,19 @@
   user-select: none;
 }
 
-.toggle-label:hover {
+.trade-history-table .toggle-cols:hover {
   text-decoration: underline;
 }
 
-/* Collapsed: hide columns 4-8 (Entry Date, Entry Price, Exit Date, Days Held, Exit Price) */
-.trade-history-table table th:nth-child(n+4):nth-child(-n+8),
-.trade-history-table table td:nth-child(n+4):nth-child(-n+8) {
+/* Collapsed by default: hide columns 4-8 */
+.trade-history-table.columns-collapsed th:nth-child(n+4):nth-child(-n+8),
+.trade-history-table.columns-collapsed td:nth-child(n+4):nth-child(-n+8) {
   display: none;
 }
 
-/* Expanded: show all columns when checkbox is checked */
-.toggle-columns:checked ~ .trade-history-table table th:nth-child(n+4):nth-child(-n+8),
-.toggle-columns:checked ~ .trade-history-table table td:nth-child(n+4):nth-child(-n+8) {
+/* Expanded: show all columns */
+.trade-history-table.columns-expanded th:nth-child(n+4):nth-child(-n+8),
+.trade-history-table.columns-expanded td:nth-child(n+4):nth-child(-n+8) {
   display: table-cell;
 }
 
