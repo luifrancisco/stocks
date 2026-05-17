@@ -27,13 +27,13 @@
 /* Collapsed by default: hide columns 4-8 */
 .trade-history-table.columns-collapsed th:nth-child(n+4):nth-child(-n+8),
 .trade-history-table.columns-collapsed td:nth-child(n+4):nth-child(-n+8) {
-  display: none;
+  display: none !important;
 }
 
 /* Expanded: show all columns */
 .trade-history-table.columns-expanded th:nth-child(n+4):nth-child(-n+8),
 .trade-history-table.columns-expanded td:nth-child(n+4):nth-child(-n+8) {
-  display: table-cell;
+  display: table-cell !important;
 }
 
 /* Hide less important columns on smaller screens (when expanded) */
