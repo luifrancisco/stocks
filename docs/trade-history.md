@@ -20,6 +20,7 @@ This page serves as a technical summary of all posts published so far in this bl
 ## Closed Trades
 
 <div class="trade-history-table columns-collapsed">
+<p><a href="#" class="toggle-cols" data-target="trade-history-table">Show all columns</a></p>
 
 <table>
 <thead>
@@ -71,7 +72,6 @@ This page serves as a technical summary of all posts published so far in this bl
 </tr>
 </tbody>
 </table>
-<p><a href="#" class="toggle-cols" data-target="trade-history-table">Show all columns</a></p>
 
 </div>
 
