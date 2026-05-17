@@ -9,7 +9,7 @@ This page serves as a technical summary of all posts published so far in this bl
 - **Total closed trades:** 3
 - **Overall win rate:** 66.7%
 - **Average return:** 8.19%
-- **Average days held:** -67.3 days
+- **Average days held:** 54.3 days
 
 ### By Market
 
@@ -19,9 +19,7 @@ This page serves as a technical summary of all posts published so far in this bl
 
 ## Closed Trades
 
-<input type="checkbox" id="toggle-columns" class="toggle-columns">
-<label for="toggle-columns" class="toggle-label">Show all columns</label>
-<div class="trade-history-table">
+<div class="trade-history-table columns-collapsed">
 
 <table>
 <thead>
@@ -64,14 +62,36 @@ This page serves as a technical summary of all posts published so far in this bl
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">3</a></td>
   <td>JP</td>
   <td>8316</td>
-  <td>2026-12-09</td>
+  <td>2025-12-09</td>
   <td>2148.00</td>
   <td>2026-01-14</td>
-  <td>-329</td>
+  <td>36</td>
   <td>2399.00</td>
   <td><span style="color: #59A14F;">+11.69%</span></td>
 </tr>
 </tbody>
 </table>
+<p><a href="#" class="toggle-cols" data-target="trade-history-table">Show all columns</a></p>
 
 </div>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  document.querySelectorAll('.toggle-cols').forEach(function(link) {
+    link.addEventListener('click', function(e) {
+      e.preventDefault();
+      var targetId = this.getAttribute('data-target');
+      var tableDiv = document.querySelector('.' + targetId);
+      if (tableDiv.classList.contains('columns-collapsed')) {
+        tableDiv.classList.remove('columns-collapsed');
+        tableDiv.classList.add('columns-expanded');
+        this.textContent = 'Show fewer columns';
+      } else {
+        tableDiv.classList.remove('columns-expanded');
+        tableDiv.classList.add('columns-collapsed');
+        this.textContent = 'Show all columns';
+      }
+    });
+  });
+});
+</script>
