@@ -39,36 +39,36 @@ This page serves as a technical summary of all posts published so far in this bl
 <tbody>
 <tr>
   <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">1</a></td>
-  <td>PH</td>
-  <td>ICT</td>
-  <td>2026-02-09</td>
-  <td>659.50</td>
-  <td>2026-05-07</td>
-  <td>87</td>
-  <td>785.00</td>
-  <td><span style="color: #59A14F;">+19.03%</span></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">PH</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">ICT</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">2026-02-09</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">659.50</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">2026-05-07</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">87</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/">785.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/"><span style="color: #59A14F;">+19.03%</span></a></td>
 </tr>
 <tr>
   <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">2</a></td>
-  <td>JP</td>
-  <td>8316</td>
-  <td>2026-01-23</td>
-  <td>5539.00</td>
-  <td>2026-03-04</td>
-  <td>40</td>
-  <td>5199.00</td>
-  <td><span style="color: #E15759;">-6.14%</span></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">JP</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">8316</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">2026-01-23</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">5539.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">2026-03-04</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">40</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/">5199.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-losing-to-the-bears/"><span style="color: #E15759;">-6.14%</span></a></td>
 </tr>
 <tr>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">3</a></td>
-  <td>JP</td>
-  <td>8316</td>
-  <td>2025-12-09</td>
-  <td>2148.00</td>
-  <td>2026-01-14</td>
-  <td>36</td>
-  <td>2399.00</td>
-  <td><span style="color: #59A14F;">+11.69%</span></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">JP</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">8316</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">2025-12-09</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">2148.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">2026-01-14</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">36</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/">2399.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/"><span style="color: #59A14F;">+11.69%</span></a></td>
 </tr>
 </tbody>
 </table>
