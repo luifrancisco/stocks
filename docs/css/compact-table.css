@@ -5,6 +5,11 @@
   width: 100%;
 }
 
+/* When collapsed, force fixed layout so visible columns fill the width */
+.trade-history-table.columns-collapsed table {
+  table-layout: fixed !important;
+}
+
 .trade-history-table th,
 .trade-history-table td {
   padding: 0.3rem 0.4rem;
