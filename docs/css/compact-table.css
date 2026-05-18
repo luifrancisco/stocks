@@ -9,7 +9,7 @@
 .trade-history-table td {
   padding: 0.3rem 0.4rem;
   white-space: nowrap;
-  text-align: center;
+  text-align: center !important;
 }
 
 .trade-history-table .toggle-cols {
