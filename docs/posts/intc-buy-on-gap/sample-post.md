@@ -1,38 +1,32 @@
 ---
-title: "ICT trade with MAs"
-draft: true
-date: 2026-05-07
+title: "INTC: Buy on gap"
+draft: false
+date: 2026-05-18
 authors:
   - luis
 categories:
-  - Sentiments
+  - US
   - Wins
 metadata:
   stock_consolidation:
-    market: JP
+    market: US
     tranches: false
-    symbol: "8316"
-    entry_date: "2025-05-14"
-    entry_price: 2148
-    entry_shares: 100
-    exit_date: "2026-01-14"
-    exit_price: 2399
-    exit_shares: 100
-    notes: "Swing"
+    symbol: "INTC"
+    entry_date: "2026-04-29"
+    entry_price: 88.51
+    entry_shares: 16
+    exit_date: "2026-05-15"
+    exit_price: 108.12
+    exit_shares: 16
+    notes: "Buy on gap"
 ---
-Fast forward from December of 2025 to today - I managed to increase the portfolio by about 25%.
+![INTC buy on gap](photos/intc_sell_20260515.jpg)
 
-![ICT trade plan](photos/ICT_trade_col_20260507.jpg)
-*Snap of the port just before the sell execution. Actual exit value was at 785.*
+This is probably my first successful buy on gap trade. I saw the stock surging on the first half of the trading day (first hour if I remember correctly) and just bought without hesitation. But this was mainly because I wasn't treating my US account very seriously. It was an account I opened during the pandemic and put something there to see how much it will grow over time.
 
-Went all in with ICT considering the strong uptrend but didn't really have an entry price in mind.
+The actual upside could have been higher if only I had an exit plan. If I sold on box confirmation or validation, profit could have been 36%.
 
-The plan was to capitalize on the swings but my full-time job didn't allow me to check trends and execute trades in the middle of the day.
-
-Fortunately, I'm on holiday today so I was able to monitor at EOD where I found a bearish candle for a sell signal.
-
-![ICT trade plan](photos/ICT_trade_20260507.png)
-
-How do you calculate the RRR when the stock is ATH levels?
-
-Stock is still going strong. When do you re-enter?
+## Key Takeaways
+- **Do NOT hold fast rising stocks for long**
+- **Always monitor the delta between price and MA trend line.**
+- **Consider to sell on box confirmation**
