@@ -28,4 +28,4 @@ EMA9 was also close to MA20 so it could act as another support level. Delta betw
 
 13 candles later the price potential profit reached 13.3%. Realistically, I could have secured my profit on the next two lower candles but obviously that didn't happen. If it did, that could still have been a profit of 5.8%.
 
-The takeaway: {==**EXIT ON BOX FORMATION**==}
+The takeaway: {==**Exit on box formation**==}

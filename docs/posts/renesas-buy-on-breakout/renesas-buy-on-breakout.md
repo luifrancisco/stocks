@@ -27,7 +27,7 @@ This needs to go the vault because this is the trade that, in fact, gave me the 
 
 This is technically my first TSE trade. The total holding period was about 5 weeks which I thought would have taken less time to make the same amont of profit. Saw this stock on the screener with a good amount of volume with a price breakout from a 6-month consolidation phase. Entered at the third candle.
 
-Stock consolidated for a few weeks before breaking out once more. Exited at second candle of box formation.
+Stock consolidated for a few weeks before breaking out once more. {==Exited at second candle of box formation.==}
 
 ## In retrospect
 Yes, it indeed formed a new box but with higher lows. I could have planned another entry at box bottom.
