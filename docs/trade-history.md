@@ -2,18 +2,18 @@
 
 This page serves as a technical summary of all posts published so far in this blog.
 
-*Generated: 2026-05-19*
+*Generated: 2026-05-20*
 
 ## Summary
 
-- **Total closed trades:** 4
-- **Overall win rate:** 75.0%
-- **Average return:** 11.68%
-- **Average days held:** 44.8 days
+- **Total closed trades:** 5
+- **Overall win rate:** 60.0%
+- **Average return:** 8.76%
+- **Average days held:** 37.2 days
 
 ### By Market
 
-- **PH:** 1 trade(s), 100.0% win rate, 19.03% avg return
+- **PH:** 2 trade(s), 50.0% win rate, 8.06% avg return
 - **JP:** 2 trade(s), 50.0% win rate, 2.77% avg return
 - **US:** 1 trade(s), 100.0% win rate, 22.16% avg return
 
@@ -38,7 +38,18 @@ This page serves as a technical summary of all posts published so far in this bl
 </thead>
 <tbody>
 <tr>
-  <td><a href="https://trade.luislogs.com/2026/05/18/intc-buy-on-gap/" style="color: #59A14F;">1</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">1</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">PH</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">MYNLD</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">2026-05-11</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">24.00</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">2026-05-18</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">7</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">23.30</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/19/mynld-buy-on-brain-fart/" style="color: #E15759;">-2.92%</a></td>
+</tr>
+<tr>
+  <td><a href="https://trade.luislogs.com/2026/05/18/intc-buy-on-gap/" style="color: #59A14F;">2</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/18/intc-buy-on-gap/" style="color: #59A14F;">US</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/18/intc-buy-on-gap/" style="color: #59A14F;">INTC</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/18/intc-buy-on-gap/" style="color: #59A14F;">2026-04-29</a></td>
@@ -49,7 +60,7 @@ This page serves as a technical summary of all posts published so far in this bl
   <td><a href="https://trade.luislogs.com/2026/05/18/intc-buy-on-gap/" style="color: #59A14F;">+22.16%</a></td>
 </tr>
 <tr>
-  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/" style="color: #59A14F;">2</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/" style="color: #59A14F;">3</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/" style="color: #59A14F;">PH</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/" style="color: #59A14F;">ICT</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/" style="color: #59A14F;">2026-02-09</a></td>
@@ -60,7 +71,7 @@ This page serves as a technical summary of all posts published so far in this bl
   <td><a href="https://trade.luislogs.com/2026/05/07/ict-trade-with-mas/" style="color: #59A14F;">+19.03%</a></td>
 </tr>
 <tr>
-  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/" style="color: #E15759;">3</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/" style="color: #E15759;">4</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/" style="color: #E15759;">JP</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/" style="color: #E15759;">8316</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/" style="color: #E15759;">2026-01-23</a></td>
@@ -71,7 +82,7 @@ This page serves as a technical summary of all posts published so far in this bl
   <td><a href="https://trade.luislogs.com/2026/05/16/smfg-8316-a-loss-to-the-bears/" style="color: #E15759;">-6.14%</a></td>
 </tr>
 <tr>
-  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">4</a></td>
+  <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">5</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">JP</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">8316</a></td>
   <td><a href="https://trade.luislogs.com/2026/05/13/renesas-buy-on-breakout/" style="color: #59A14F;">2025-12-09</a></td>
