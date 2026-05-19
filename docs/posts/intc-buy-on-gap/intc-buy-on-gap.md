@@ -26,7 +26,7 @@ This is probably my first successful buy on gap trade. I saw the stock surging o
 
 The actual upside could have been higher if only I had an exit plan. If I sold on box confirmation or validation, profit could have been 36%.
 
-## Key Takeaways
-- **Do NOT hold fast rising stocks for long**
-- **Always monitor the delta between price and MA trend line.**
-- **Consider to sell on box confirmation**
+## Key takeaways
+- {==Do NOT hold fast rising stocks for long==}
+- {==Always monitor the delta between price and MA trend line.==}
+- {==Consider to sell on box confirmation==}
